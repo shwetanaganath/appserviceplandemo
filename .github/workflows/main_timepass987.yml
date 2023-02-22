@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'timepass987'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40CB57D665B340F8B54D40E0B47FB7F8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77E3CA87CF41475DB3D3D54C6FE58BF3 }}
           package: .
